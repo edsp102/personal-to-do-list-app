@@ -1,0 +1,5 @@
+__pycache__/
+*.pyc
+todo_app/generate_ppt.py
+todo_app/presentation.pptx
+*.pptx

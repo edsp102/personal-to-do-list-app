@@ -1,0 +1,20 @@
+[
+    {
+        "title": "Complete Project Presentation",
+        "description": "Prepare 10-15 slides covering the To-Do List Application architecture and features.",
+        "category": "Work",
+        "completed": false
+    },
+    {
+        "title": "Grocery Shopping",
+        "description": "Buy fruits, vegetables, and milk for the week.",
+        "category": "Personal",
+        "completed": true
+    },
+    {
+        "title": "Fix Critical Bug",
+        "description": "Review logs and patch data persistence error in release build.",
+        "category": "Urgent",
+        "completed": false
+    }
+]
